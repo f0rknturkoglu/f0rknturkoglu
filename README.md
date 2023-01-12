@@ -8,7 +8,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/worthlessvoid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="worthlessvoid" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?lipi=urn%3ali%3apage%3ad_flagship3_profile_self_edit_contact-info%3bcfktn%2fjstlqcfp5d58n3xq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?lipi=urn%3ali%3apage%3ad_flagship3_profile_self_edit_contact-info%3bcfktn%2fjstlqcfp5d58n3xq%3d%3d" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20995593" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20995593" height="30" width="40" /></a>
 <a href="https://instagram.com/furkanturkogluu.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="furkanturkogluu.0" height="30" width="40" /></a>
 </p>
